@@ -32,7 +32,7 @@ class UserDashboard extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             const Text(
-              "Welcome to HopeBridge 🌉",
+              "Welcome to HopeBridge ",
               style: TextStyle(
                 fontSize: 22,
                 fontWeight: FontWeight.bold,
